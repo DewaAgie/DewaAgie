@@ -2,7 +2,7 @@
 - 👀 I’m interested in NodeJS
 - 🌱 I’m currently learning NodeJS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Email : agixdewa99@gmail.com
 
 <!---
 DewaAgie/DewaAgie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
